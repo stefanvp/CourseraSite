@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Pets"
+date:   2024-02-21 15:54:21 +0100
+categories: jekyll update
+author: Stefan
+---
+
+I have a bird, a green cheek conure, and a cat, a.. uh... cat.
+
+![CCC](https://upload.wikimedia.org/wikipedia/commons/f/fc/Green-cheeked_Conure_%28Pyrrhura_molinae%29_-pet_on_food_bowel.jpg)
+![cat](https://upload.wikimedia.org/wikipedia/commons/8/80/Brown_and_white_tabby_cat_with_green_eyes_on_stairs-Hisashi-01.jpg)

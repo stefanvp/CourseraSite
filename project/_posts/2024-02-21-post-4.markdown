@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Tonights Dinner"
+date:   2024-02-21 15:54:21 +0100
+categories: jekyll update
+author: Stefan
+---
+
+I have a lasagna in the oven.
+
+![lasagna](https://upload.wikimedia.org/wikipedia/commons/8/80/Close_up_of_slice_of_lasagna.jpg)

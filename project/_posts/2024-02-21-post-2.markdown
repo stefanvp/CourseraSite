@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Why this site?"
+date:   2024-02-21 15:54:21 +0100
+categories: jekyll update
+author: Stefan
+---
+
+This site is made for a school assignment.
+[Coursera](https://www.coursera.org/learn/introduction-to-devsecops)

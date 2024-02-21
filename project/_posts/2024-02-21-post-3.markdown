@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "I like Formula 1"
+date:   2024-02-21 15:54:21 +0100
+categories: jekyll update
+author: Stefan
+---
+
+Currently rooting for Max Verstappen.
+![MaxVerstappen](https://upload.wikimedia.org/wikipedia/commons/f/f3/Max_Verstappen%2C_Red_Bull-Honda_RB15%2C_2019_Italian_Grand_Prix%2C_Monza%2C_8th_September_%28cropped%29.jpg)
